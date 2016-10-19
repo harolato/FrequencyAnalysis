@@ -1,6 +1,7 @@
 # FrequencyAnalysis
 
 Arguments:
+
 (required) path to text file
 Must be passed as first argument
 
